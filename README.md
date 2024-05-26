@@ -14,7 +14,13 @@ Both models surpassed 90% accuracy on both train and test data with smooth conve
 
 ## How to Run
 - Clone or download this repository and just run the jupyter notbook file
+- I have used Google Collab so to use it upload the data to drive after downloading it or you can simply download the data and run on your local machine
 - Yes its that simple 🧁
+
+## Note
+In the feature extraction part in my notebook I commented the feature extraction part after succesfully doing feature extraction and saving to my drive.
+You can use those features too or you can uncomment the code and perform feature extraction from start. Its upto you.
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
